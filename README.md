@@ -1,1 +1,1 @@
-# wiki
+# MentaliOS Wiki
